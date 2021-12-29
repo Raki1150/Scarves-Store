@@ -1,0 +1,48 @@
+h2 {
+    background-color: lime;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+h1 {
+    background-color: paleturquoise;
+    background-position: center;
+    font-style: italic;
+    font-size: 40px;
+}
+.material2 {
+    margin: 100px;
+    padding: 25px 180px 25px 180px;
+}
+
+.material3 {
+    margin: 100px;
+    padding: 25px 300px 25px 240px;
+}
+
+.material4 {
+    margin: 100px;
+    padding: 25px 400px 35px 420px;
+}
+
+.material5 {
+    margin: 100px;
+    padding: 25px 600px 25px 500px;
+}
+
+
+body {
+    background-color: moccasin;
+}
+
+footer{
+    margin-top: .75rem;
+    border-top: solid 1px lightgray;
+    padding-top: 1rem;
+    text-align: center;
+}
+
+footer img{
+    margin: 0.5rem;
+}
+
